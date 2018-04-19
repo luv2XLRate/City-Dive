@@ -126,7 +126,7 @@ button.category-button {
     box-shadow: 0 0 10px black;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
-    margin-top: 40px;
+    /**margin-top: 40px; ***/
 }
 
 button.selected {
