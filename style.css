@@ -45,7 +45,7 @@ header {
     background-repeat: no-repeat;
     background-attachment: fixed;
     box-shadow: 0 0 10px black;
-    padding-top: 200px;
+    padding-top: 50px;
     margin-bottom: 45px;
 
 
@@ -55,7 +55,7 @@ h1.logo {
     font-family: 'serif', 'American Typewriter', 'serif';
     color: #616A5A;
     font-size: 80px;
-    margin-bottom: 100px;
+    margin-top: 10px;
 }
 
 form {
@@ -183,15 +183,6 @@ div .result-image {
     padding: 8px 4px 0 4px;
 }
 
-
-/***** FOOTER ****
-footer {
-    background-color: rgba(255, 255, 255, 0.7);
-    height: 125px;
-    padding: 20px;
-    margin-top: 20px;
-    box-shadow: 0 0 10px black;
-}
 /***** RESPONSIVE DESIGN *****/
 
 * {
