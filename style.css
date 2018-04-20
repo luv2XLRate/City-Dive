@@ -27,10 +27,6 @@ header p {
     font-size: 15px;
 }
 
-.submit-button {
-    padding-top: 15px;
-}
-
 header p.api-info {
     color: steelblue;
     font-size: 12px;
